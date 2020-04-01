@@ -1,0 +1,2 @@
+- 四元数与三维旋转  Quternion <https://krasjet.github.io/quaternion/quaternion.pdf>
+- 共轭梯度法通俗讲义 Gradient Descent : <https://flat2010.github.io/2018/10/26/共轭梯度法通俗讲义/>   
